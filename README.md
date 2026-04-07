@@ -36,7 +36,7 @@ Pastikan **Node.js** sudah terinstall di device kamu.
 
 ```bash
 # Clone repository
-git clone https://github.com/USERNAME_LO/wa-reminder-bps.git
+git clone https://github.com/Isaac-1911/wa-reminder-bps.git
 cd wa-reminder-bps
 
 # Install dependencies
